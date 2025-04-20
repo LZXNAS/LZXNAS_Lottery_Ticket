@@ -1,5 +1,6 @@
 # LZXNAS_Lottery_Ticket
 A lottery ticket program made from zilan school students
+本项目现已停止更新，1.2版本遥遥无期（bushi
 <br>
 #------------------------EULA--------------------------
 本软件由2022级初中部紫兰信奥队全体提供创意，LZXNAS团队编写,
